@@ -73,7 +73,7 @@ information system student
   <img align="center" alt="Arthur-HTML" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Arthur-CSS" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Arthur-Python" height="36" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Arthur-Csharp" height="35" width="40" src="https://devkico.itexto.com.br/wp-content/uploads/2017/08/logotipo.png">
+  <img align="center" alt="Arthur-Javascript" height="35" width="40" src="https://devkico.itexto.com.br/wp-content/uploads/2017/08/logotipo.png">
   
 
 
