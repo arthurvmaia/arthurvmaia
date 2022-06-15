@@ -41,7 +41,6 @@ information system student
     tools: [
       'Git', 'Github',
     ],
-
   },
 };
 ```
