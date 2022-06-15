@@ -67,13 +67,13 @@ information system student
 
   
   <img align="center" alt="Arthur-Ts" height="37" width="35" src="https://ficheiros.com.br/assets/img/icons/apps/128/microsoft-sql-server.png">
-  <img align="center" alt="Ray-Ts" height="35" width="35" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png">
-  <img align="center" alt="Ray-Ts" height="35" width="35" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png">
-  <img align="center" alt="Ray-Ts" height="35" width="35" src="http://www.dltec.com.br/blog/wp-content/uploads/2012/09/linux-icon-11.png">
-  <img align="center" alt="Ray-HTML" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="RRay-CSS" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Ray-Python" height="36" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Ray-Csharp" height="35" width="40" src="https://devkico.itexto.com.br/wp-content/uploads/2017/08/logotipo.png">
+  <img align="center" alt="Arthur-Ts" height="35" width="35" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png">
+  <img align="center" alt="Arthur-Ts" height="35" width="35" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png">
+  <img align="center" alt="Arthur-Ts" height="35" width="35" src="http://www.dltec.com.br/blog/wp-content/uploads/2012/09/linux-icon-11.png">
+  <img align="center" alt="Arthur-HTML" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Arthur-CSS" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Arthur-Python" height="36" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Arthur-Csharp" height="35" width="40" src="https://devkico.itexto.com.br/wp-content/uploads/2017/08/logotipo.png">
   
 
 
