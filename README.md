@@ -74,7 +74,7 @@ information system student
   <img align="center" alt="Arthur-CSS" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Arthur-Python" height="36" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Arthur-Javascript" height="35" width="40" src="https://devkico.itexto.com.br/wp-content/uploads/2017/08/logotipo.png">
-  
+  <img align="right" alt="Ray-pic" height="200" style="border-radius:50px;" src="https://www.pngitem.com/pimgs/m/141-1413423_killua-png-transparent-png.png">
 
 
 # 📈 Statistics:
