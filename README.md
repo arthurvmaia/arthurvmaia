@@ -39,7 +39,7 @@ information system student
       'HTML5', 'CSS3', 'Javascript',
     ],
     tools: [
-      'Git', 'Github', 'Heroku',
+      'Git', 'Github',
     ],
 
   },
