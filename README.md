@@ -25,7 +25,8 @@ information system student
     aberto a novos desafios que possam agregar conhecimentos ou novas possibilidades.`,
     myObjective: `Atualmente sou Estudante de Sistemas de informação.
     Estou buscando oportunidades para me inserir no mercado Desenvolvedor de software,
-    minha formação é focada várias linguagens como: python, js, sql e outros e procuro aprimorar meus conhecimentos todos os dias,
+    minha formação é focada várias linguagens como: python, js, sql e outros e
+    procuro aprimorar meus conhecimentos todos os dias,
     com finalidade de adquirir novas experiências que possam agregar ao meu futuro.`,
   },
   skills: {
