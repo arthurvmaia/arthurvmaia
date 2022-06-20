@@ -16,18 +16,14 @@ information system student
   linkedin: 'https://www.linkedin.com/in/arthur-maia-a09265234/',
   contato: '(83) 99602-9553',
   description: {
-    myProfile: `Bacharelando em Sistema da Informação, tive meu primeiro contato com programação em 2020 e curti bastante. 
-    Desde então, migrei para a área de Tecnologia, fazendo cursos introdutórios de  
-    Python, SQL, HTML e CSS,  na esperança de conseguir um emprego na área de programação.
-    Este ano iniciei uma graduação em Bacharel em Sistema da Informação e estou com decisão fixa 
-    para conseguir entrar em uma das empresas que tem parceria com a faculdade Uniesp.
-    Estou constantemente procurando aprimorar meus conhecimentos, estudando e 
-    aberto a novos desafios que possam agregar conhecimentos ou novas possibilidades.`,
-    myObjective: `Atualmente sou Estudante de Sistemas de informação.
-    Estou buscando oportunidades para me inserir no mercado Desenvolvedor de software,
-    minha formação é focada várias linguagens como: python, js, sql e outros e
-    procuro aprimorar meus conhecimentos todos os dias,
-    com finalidade de adquirir novas experiências que possam agregar ao meu futuro.`,
+    myProfile: `Bacharelando em Sistema da Informação na UNIESP, Quando comecei meu primeiro contato com Front-end e
+    back-end em fevereiro de 2022 eu nunca tinha visto nada parecido até então,
+    mas desde fevereiro para o dia que você está lendo isso eu virei um consumidor
+    entusiasmado por as tecnologias que venho descobrindo a cada dia que passa. Então, migrei para a área de Tecnologia,
+    venho fazendo cursos introdutórios de Python, SQL, HTML5 e CSS, pretendo continuar com mais e mais,
+    pois sinto que estou no caminho certo da minha vida profissional .
+    Estou constantemente procurando aprimorar meus conhecimentos,
+    estudando e aberto a novos desafios que possam agregar conhecimentos ou novas possibilidades.`,
   },
   skills: {
     languages: [
