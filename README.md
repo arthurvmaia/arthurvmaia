@@ -14,7 +14,6 @@ information system student
   hobbies: ['Cultura Pop', 'Cinema', 'Games', 'Animes'],
   email: ['arthurmaia008killua@gmail.com', 'arthurmaia008@hotmail.com'],
   linkedin: 'https://www.linkedin.com/in/arthur-maia-a09265234/',
-  contato: '(83) 99602-9553',
   description: {
     myProfile: `Bacharelando em Sistema da Informação na UNIESP, Quando comecei meu primeiro contato com Front-end e
     back-end em fevereiro de 2022 eu nunca tinha visto nada parecido até então,
